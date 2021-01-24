@@ -1,5 +1,8 @@
 # Jobs Finder developed using React JS and GitHub Jobs API
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-jobs/src/images/screenshot.PNG "Jobs Finder")
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
+
 
 [Live Demo](https://praveenorugantitech-jobs.firebaseapp.com/)
