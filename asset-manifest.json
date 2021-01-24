@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/praveenorugantitech-jobs-reactjs/static/css/main.eb402256.chunk.css",
-    "main.js": "/praveenorugantitech-jobs-reactjs/static/js/main.c42b7f69.chunk.js",
+    "main.js": "/praveenorugantitech-jobs-reactjs/static/js/main.aacc8ddf.chunk.js",
     "runtime-main.js": "/praveenorugantitech-jobs-reactjs/static/js/runtime-main.4f05d815.js",
     "static/js/2.ccfd6061.chunk.js": "/praveenorugantitech-jobs-reactjs/static/js/2.ccfd6061.chunk.js",
     "index.html": "/praveenorugantitech-jobs-reactjs/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.4f05d815.js",
     "static/js/2.ccfd6061.chunk.js",
     "static/css/main.eb402256.chunk.css",
-    "static/js/main.c42b7f69.chunk.js"
+    "static/js/main.aacc8ddf.chunk.js"
   ]
 }
