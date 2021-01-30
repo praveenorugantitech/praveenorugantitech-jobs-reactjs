@@ -1,4 +1,4 @@
-# Jobs Finder developed using React JS and GitHub Jobs API
+# Jobs Finder App developed using React JS, Bootstrap and GitHub Jobs API
 
 <div>
 <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
